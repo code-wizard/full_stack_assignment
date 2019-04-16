@@ -3,7 +3,7 @@ Step to run the project locally
 
 => run ./manage.py migrate to populate the database
 
-=> If you hit CORS errors, add your frontend app host address
+=> If you hit CORS errors, add your frontend app host address to whitelisted host
 
 CORS_ORIGIN_WHITELIST = ['localhost:4207']
 or  
