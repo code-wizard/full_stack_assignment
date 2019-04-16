@@ -9,3 +9,6 @@ CORS_ORIGIN_WHITELIST = ['localhost:4207']
 or  
 
 set CORS_ORIGIN_ALLOW_ALL = TRUE
+
+
+=> run ./manage.py runserver
