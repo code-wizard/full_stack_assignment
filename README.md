@@ -4,5 +4,8 @@ Step to run the project locally
 => run ./manage.py migrate to populate the database
 
 => If you hit CORS errors, add your frontend app host address
+
 CORS_ORIGIN_WHITELIST = ['localhost:4207']
-or  set CORS_ORIGIN_ALLOW_ALL = TRUE
+or  
+
+set CORS_ORIGIN_ALLOW_ALL = TRUE
